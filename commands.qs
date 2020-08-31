@@ -29,12 +29,7 @@ LAST	Len	"Clive Duncan"
 LAST	Den	"UK election candidate in Aldridge-Brownhills"
 LAST	P106	Q19772737
 LAST	P3602	Q918472	P768	Q581792	P102	Q9630	P1111	14038	P1352	2	S4656	"https://en.wikipedia.org/wiki/Aldridge-Brownhills_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"David Morgan"
-LAST	Den	"UK election candidate in Aldridge-Brownhills"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q581792	P102	Q9630	P1111	8014	P1352	2	S4656	"https://en.wikipedia.org/wiki/Aldridge-Brownhills_(UK_Parliament_constituency)"
+Q75720098	P3602	Q30173038	P768	Q581792	P102	Q9630	P1111	8014	P1352	2	S4656	"https://en.wikipedia.org/wiki/Aldridge-Brownhills_(UK_Parliament_constituency)"
 Q5534581	P3602	Q119524	P768	Q581792	P102	Q9630	P1111	19642	P1352	1	S4656	"https://en.wikipedia.org/wiki/Aldridge-Brownhills_(UK_Parliament_constituency)"
 Q5534581	P3602	Q918450	P768	Q581792	P102	Q9630	P1111	20621	P1352	2	S4656	"https://en.wikipedia.org/wiki/Aldridge-Brownhills_(UK_Parliament_constituency)"
 Q5534581	P3602	Q918508	P768	Q581792	P102	Q9630	P1111	21403	P1352	1	S4656	"https://en.wikipedia.org/wiki/Aldridge-Brownhills_(UK_Parliament_constituency)"
